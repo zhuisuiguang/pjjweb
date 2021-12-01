@@ -1,1 +1,0 @@
-setTimeout("javascript:location.href='index.html'", 3000); 
