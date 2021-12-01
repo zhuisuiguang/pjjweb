@@ -1,0 +1,78 @@
+body{
+	background-size:100%; 
+	background-repeat: no-repeat;
+}
+
+div{
+	margin: 0 auto;
+	margin-top: 200px;
+	width: 400px;
+	height: 250px;
+	background-color: #ffffe6;
+	border: 2px solid #A10000;
+	border-radius: 10px;
+}
+
+div p{
+	margin: 0 auto;
+	width: 200px;
+	height: 33px;
+}
+div p:first-child{
+	margin-top: 50px;
+}
+
+div p span{
+	height: 33px;
+	line-height: 33px;
+}
+
+div .djdl{
+	position: absolute;
+	left: 50%;
+	margin-left: -48px;
+	font-size: 12px;
+	float: right;
+	color: #fff;
+	background-color: #A10000;
+	height: 24px;
+	width: 120px;
+	line-height: 24px;
+	border-radius: 15px;
+	display: inline-block;
+	text-align: center;
+	margin-top: 25px;
+	text-decoration: none;
+}
+
+em{
+	font-style: normal;
+	position: absolute;
+	width: 70px;
+	height:20px ;
+	line-height: 15px;
+	font-size: 12px;
+	left: 45%;
+	margin-bottom: 50px;
+}
+
+.zc ,.wjmm{
+	position: absolute;
+	left: 50%;
+	margin-left: -90px;
+	font-size: 12px;
+	float: right;
+	color: #A10000;
+	height: 24px;
+	width: 70px;
+	line-height: 24px;
+	border-radius: 15px;
+	display: inline-block;
+	text-align: center;
+	margin-top: 50px;
+	text-decoration: none;
+}
+.wjmm{
+	left: 50%;
+	margin-left: 35px;
+}
